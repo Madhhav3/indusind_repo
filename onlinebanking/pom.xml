@@ -22,4 +22,16 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>Madhhav-PC-releases</name>
+        <url>http://localhost:8081/artifactory/ext-release-local</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>Madhhav-PC-snapshots</name>
+        <url>http://localhost:8081/artifactory/ext-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
