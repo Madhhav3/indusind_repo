@@ -4,7 +4,7 @@
 
   <groupId>com.banking.in</groupId>
   <artifactId>onlinebanking</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>release</version>
   <packaging>jar</packaging>
 
   <name>onlinebanking</name>
